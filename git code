@@ -1,0 +1,10 @@
+$filename mndir
+$git status
+$filename txt
+$cd filename
+$ls
+$touch filename
+$ls
+$git status
+$git add
+$git push
